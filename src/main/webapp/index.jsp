@@ -7,7 +7,7 @@
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
     <body>
-        <h1> Master </h1>
+        <h1> Master branch </h1>
         <h1> GOOD DAY </h1>
         <h1> NICE DAY </h1>
         <h1> New HTML code added </h1> 
