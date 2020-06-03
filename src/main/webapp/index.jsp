@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <body style="background-color:dollor-blue;">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
